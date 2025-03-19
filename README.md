@@ -1,5 +1,9 @@
 # n8n-queue-mode
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="100" height="50" alt="n8n Logo"> | <img width="50" height="50" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo">  | <img width="90" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" alt="Redis Logo">
+:---: | :---: | :---:
+
+
 ## Descrição
 
 Configuração para realizar o deploy do n8n em Docker no modo Fila, utilizando PostgreSQL como banco de dados, Redis para gerenciamento de fila e múltiplos workers.
